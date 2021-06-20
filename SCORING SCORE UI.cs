@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Author BY MRWD
 public class scorecoincincin : MonoBehaviour
 {
     public static int hitungcoin;
