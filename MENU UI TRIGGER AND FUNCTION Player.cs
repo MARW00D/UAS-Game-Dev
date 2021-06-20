@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Author BY MRWD
 public class Player : MonoBehaviour
 {
     public int kecepatan; 
